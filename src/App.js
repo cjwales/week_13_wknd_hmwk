@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import MovieBox from './containers/MovieBox';
 
 function App() {
   return (
     <div>
-      <h2>Upcoming Film Releases for UK</h2>
+      <MovieBox />
     </div>
   );
 }
