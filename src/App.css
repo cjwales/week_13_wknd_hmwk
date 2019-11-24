@@ -22,3 +22,15 @@
 .button-div {
   text-align: center;
 }
+
+li {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+}
+
+.box-title {
+  color: red;
+}
